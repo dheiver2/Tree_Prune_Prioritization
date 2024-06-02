@@ -1,4 +1,3 @@
-```markdown
 # Priorização de Poda de Árvores
 
 Este projeto tem como objetivo priorizar árvores para poda usando um sistema de IA. Ele inclui código para gerar imagens de árvores, treinar um modelo para analisar essas imagens e otimizar rotas de poda com base em prioridades.
